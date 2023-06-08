@@ -62,17 +62,3 @@ The genetic algorithm consists of the following steps:
 6. Replace the current population with the offspring.
 7. Repeat steps 3-6 for a specified number of generations.
 
-## Running the Algorithm
-
-To run the genetic algorithm, call the `genetic_algorithm` function with the input file path as the argument. The
-algorithm returns the final population, which contains the solutionSorry, as an AI language model, I do not have the
-capability to access your local file system. However, I can provide you with an example of how to run the genetic
-algorithm with a sample input file.
-
-
-
-In this example, the genetic algorithm reads the puzzle from the "sudoku.txt" file, creates the initial population,
-calculates the fitness of each chromosome, selects the mating pool, generates the offspring using crossover and
-mutation, replaces the current population with the offspring, and repeats the process for a specified number of
-generations. Finally, the algorithm returns the final population, which contains the solution. The solution is then
-printed to the console.
